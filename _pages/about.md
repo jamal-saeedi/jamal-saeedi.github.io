@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-** Welcome to my journey through the exciting world of engineering and artificial intelligence.
+## Welcome to my journey through the exciting world of engineering and artificial intelligence.
 
 I began my academic path by earning a Bachelor of Science degree in Biomedical Engineering from Sahand University of Tabriz, Iran, in 2006. This sparked my passion for exploring the intersection of technology and science.
 
@@ -21,7 +21,7 @@ In 2019, I embarked on an exciting new chapter as a postdoctoral researcher at t
 Throughout my journey, I've acquired a wealth of knowledge spanning system design, signal and image processing, computer vision, information fusion, machine learning, and deep learning. I specialize in working with digital data from various sensors, including microphones, cameras, radar antennas, EEG electrodes, load cells, and more. My mission is to harness the power of data to drive innovation and solve complex problems.
 
 
-Research Interests
+## Research Interests
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
