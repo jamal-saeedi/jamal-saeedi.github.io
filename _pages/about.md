@@ -24,6 +24,7 @@ Throughout my journey, I've acquired a wealth of knowledge spanning system desig
 ## Research Interests
 
 As an applied engineer, I'm passionate about harnessing the latest AI technologies rooted in deep learning, computer vision, and machine learning for diverse applications. My expertise extends across a spectrum of tasks, including supervised and unsupervised classification, image-based regression, semantic segmentation, object detection and tracking, 3D computer vision, and non-stationary time-series forecasting.
+
 Moreover, as a dedicated researcher, I'm deeply engaged in advancing the field of AI. My research endeavors focus on mastering deep learning generative models, particularly through variational autoencoders and normalizing flow techniques. These efforts enable me to contribute to cutting-edge solutions in anomaly detection, semantic segmentation, and time-series forecasting, pushing the boundaries of state-of-the-art methodologies.
 
 
