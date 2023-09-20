@@ -22,8 +22,10 @@ Throughout my journey, I've acquired a wealth of knowledge spanning system desig
 
 
 ## Research Interests
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+
+As an applied engineer, I'm passionate about harnessing the latest AI technologies rooted in deep learning, computer vision, and machine learning for diverse applications. My expertise extends across a spectrum of tasks, including supervised and unsupervised classification, image-based regression, semantic segmentation, object detection and tracking, 3D computer vision, and non-stationary time-series forecasting.
+Moreover, as a dedicated researcher, I'm deeply engaged in advancing the field of AI. My research endeavors focus on mastering deep learning generative models, particularly through variational autoencoders and normalizing flow techniques. These efforts enable me to contribute to cutting-edge solutions in anomaly detection, semantic segmentation, and time-series forecasting, pushing the boundaries of state-of-the-art methodologies.
+
 
 
 
