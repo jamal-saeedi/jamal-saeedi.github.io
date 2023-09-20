@@ -8,7 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+** Welcome to my journey through the exciting world of engineering and artificial intelligence.
+
+I began my academic path by earning a Bachelor of Science degree in Biomedical Engineering from Sahand University of Tabriz, Iran, in 2006. This sparked my passion for exploring the intersection of technology and science.
+
+Building on this foundation, I pursued higher education and attained both Master's and Ph.D. degrees in Electronic Engineering from Amirkabir University of Tehran, Iran, in 2010 and 2015, respectively. These milestones catalyzed my deep dive into the realms of innovation and cutting-edge research.
+
+My career took off in 2010 when I entered the dynamic world of industry, starting as a signal processing engineer. Over the years, my expertise expanded to encompass computer vision and machine learning, making me a versatile professional in the field. I've had the privilege of working on a wide range of projects, each providing valuable insights and honing my skills.
+
+In 2019, I embarked on an exciting new chapter as a postdoctoral researcher at the prestigious Dalle Molle Institute for Artificial Intelligence (IDSIA, USI-SUPSI). Here, I've had the opportunity to contribute to groundbreaking research and collaborate with brilliant minds in the AI community.
+
+Throughout my journey, I've acquired a wealth of knowledge spanning system design, signal and image processing, computer vision, information fusion, machine learning, and deep learning. I specialize in working with digital data from various sensors, including microphones, cameras, radar antennas, EEG electrodes, load cells, and more. My mission is to harness the power of data to drive innovation and solve complex problems.
+
 
 Research Interests
 ======
