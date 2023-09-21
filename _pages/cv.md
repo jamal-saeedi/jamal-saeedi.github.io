@@ -12,7 +12,7 @@ redirect_from:
 
 Below are some highlights from my CV.
 
-For more information, please see the PDF of my **[Full CV](../files/cv.pdf)**.
+For more information, please see the PDF of my **[Full CV](../files/curriculum vitae.pdf)**.
 
 
 Education
