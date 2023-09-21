@@ -19,8 +19,8 @@ Over the years, I have learned a lot about system design, signal and image proce
 
 ## Research Interests
 
-| Applied Machine Learning || Signal and Image Processing || Anomaly Detection || Normalizing Flows |
-| Self-Supervised Learning|| Deep Generative Modeling || Object Detection and Tracking || Non-Stationary Time Series Forecasting |
+| Applied Machine Learning | Signal and Image Processing | Anomaly Detection | Normalizing Flows |
+| Self-Supervised Learning| Deep Generative Modeling | Object Detection and Tracking | Non-Stationary Time Series Forecasting |
 
 As an applied engineer, I love using the latest AI technologies, such as deep learning, computer vision, and machine learning, to solve real-world problems. I'm good at a variety of tasks, including: supervised and unsupervised classification, image-based regression, semantic segmentation, object detection and tracking, 3D computer vision, and non-stationary time-series forecasting.
 
