@@ -28,10 +28,7 @@ Education
     
 * Master of Science (M.Sc.) in Electrical Engineering, January 2010
   * Amirkabir University of Technology (Tehran Polytechnic), Tehran, Iran. Total GPA: 3.34/4.
-  * Thesis Title: “Image Fusion in the Multi-Scale Transforms Domain Using Fuzzy Logic and Particle Swarm Optimization,” Score: 20/20 **[PDF]      (../files/PhD thesis.pdf)**.
-
-
-
+  * Thesis Title: “Image Fusion in the Multi-Scale Transforms Domain Using Fuzzy Logic and Particle Swarm Optimization,” Score: 20/20 **[PDF](../files/PhD thesis.pdf)**.
 
 
 Work experience
