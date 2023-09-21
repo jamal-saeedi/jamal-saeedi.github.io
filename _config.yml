@@ -40,7 +40,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : #  "md5"
+    email                : "md5"
   generatedFields:
     date:
       type               : "date"
@@ -88,7 +88,7 @@ author:
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=DwtzIdwAAAAJ&hl=en"
   email            :
-  researchgate     :  "https://www.researchgate.net/profile/Jamal-Saeedi"
+  researchgate     : "https://www.researchgate.net/profile/Jamal-Saeedi"
   uri              :
   bitbucket        :
   codepen          :
