@@ -7,11 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+under constrcution
 
-
+![image](https://github.com/jamal-saeedi/jamal-saeedi.github.io/assets/50617366/af9f656b-2603-41bb-a84f-fc327cecb262)
 
