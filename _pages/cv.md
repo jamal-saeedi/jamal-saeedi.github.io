@@ -28,20 +28,29 @@ Education
     
 * Master of Science (M.Sc.) in Electrical Engineering, January 2010
   * Amirkabir University of Technology (Tehran Polytechnic), Tehran, Iran. Total GPA: 3.34/4.
-  * Thesis Title: “Image Fusion in the Multi-Scale Transforms Domain Using Fuzzy Logic and Particle Swarm Optimization,” Score: 20/20 **[PDF](../files/PhD thesis.pdf)**.
+  * Thesis Title: “Image Fusion in the Multi-Scale Transforms Domain Using Fuzzy Logic and Particle Swarm Optimization,” Score: 20/20
+    **[PDF](../files/PhD thesis.pdf)**.
 
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jan 2019 – Present: Postdoctoral researcher at Istituto Dalle Molle di Studi sull'Intelligenza Artificiale (IDSIA), Lugano, Switzerland.
+  * Participated in the design and implementation of four industrial inspection and quality control projects for steel, electromechanical, and 
+   textile products, as well as other computer vision and data science projects utilizing deep learning, signal processing, and image 
+   processing techniques.
+  * 
+	Signal and image processing engineer at Towzin Electric Company (TEC), Tehran, Iran, (June 2016 – November 2018).
+	Contributed to the design and construction of the first Iranian High-Speed Weigh in Motion system at Towzin Electric Company (TEC), Tehran, Iran, (September 2016).
+	Involved in the design and implementation of real-time license plate recognition software, (March 2017).
+	Signal processing engineer at Pardis Electronic Development Co., Tehran, Iran, (September 2011 - January 2015).
+	Played a role in the design and construction of the first Iranian Synthetic Aperture Radar (IRSAR/N-1) at Pardis Electronic Development Co., Tehran, Iran, (July 2013).
+	Contributed to technology transfer for a pulsed mode SAR system manufactured by Russia, at Pardis Electronic Development Co., Tehran, Iran, (2012-2013).
+	Participated in the Synthetic Aperture Radar Workshop at Sharif University of Technology, Tehran, Iran, (May 2012).
+	Research assistant at Machine Vision Research Lab. (MVRL) under the supervision of Prof. Karim Faez, Electrical Engineering Department, Amirkabir University of Technology, (September 2007- September 2015).
+	Obtained M.Sc. and Ph.D. degrees in electrical engineering in 2010 and 2015, respectively.
+	Published 10 ISI journal papers and 7 conference papers in various research areas.
+	Reviewer for IEEE, Elsevier, Springer, IET, Taylor & Francis, and World Scientific journals on signal and image processing, computer vision, and remote sensing (2012-present).
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
