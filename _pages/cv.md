@@ -102,7 +102,6 @@ Language
 Honors and Awards
 ======
 
-* Evaluator of knowledge-based companies at Presidential Deputy for Science and Technology, Tehran, Iran (February 2018 – Present).
 * Member at Iran’s National Elites Foundation (BMN), (April 2016 – Present).
 * Scholarships for PhD and Master Educations, granted for top students in entrance exam, granter: Iranian government, (Sep 2010 and Sep 2007).
 
