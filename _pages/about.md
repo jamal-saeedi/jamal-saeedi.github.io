@@ -7,8 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## Welcome to my journey through the exciting world of engineering and artificial intelligence.
-
 I started my education by getting a Bachelor of Science degree in Biomedical Engineering from Sahand University of Tabriz, Iran, in 2006. This made me interested in the overlap of technology and science.
 
 I then got a Master's degree and a Ph.D. in Electronic Engineering from Amirkabir University of Tehran, Iran, in 2010 and 2015, respectively. This helped me learn more about innovation and cutting-edge research.
