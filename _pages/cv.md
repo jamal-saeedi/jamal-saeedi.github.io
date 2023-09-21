@@ -40,14 +40,13 @@ Work experience
   * Contributed to the design and construction of the first Iranian High-Speed Weigh in Motion system at Towzin Electric Company (TEC), 
     Tehran, Iran, (September 2016).
   * Involved in the design and implementation of real-time license plate recognition software, (March 2017).
-* September 2011 – January 2015: 
-  * Signal processing engineer at Pardis Electronic Development Co., Tehran, Iran, (September 2011 – January 2015).
+* September 2011 – January 2015: Signal processing engineer at Pardis Electronic Development Co., Tehran, Iran.
   * Played a role in the design and construction of the first Iranian Synthetic Aperture Radar (IRSAR/N-1) at Pardis Electronic Development 
     Co., Tehran, Iran, (July 2013).
   * Contributed to technology transfer for a pulsed mode SAR system manufactured by Russia, at Pardis Electronic Development Co., Tehran, 
     Iran, (2012-2013).
-* September 2007 – September 2015:
-  * Research assistant at Machine Vision Research Lab. (MVRL) under the supervision of Prof. Karim Faez, Electrical Engineering Department, 
+* September 2007 – September 2015: Research assistant at Machine Vision Research Lab. (MVRL) under the supervision of Prof. Karim Faez, 
+  Electrical Engineering Department.
     Amirkabir University of Technology.
   * Obtained M.Sc. and Ph.D. degrees in electrical engineering in 2010 and 2015, respectively.
   * Published 10 ISI journal papers and 7 conference papers in various research areas.
