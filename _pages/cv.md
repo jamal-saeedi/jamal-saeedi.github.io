@@ -19,7 +19,7 @@ Education
 ======
 * Bachelor of Science (B.Sc.) in Biomedical Engineering, September 2007.
   * Sahand University of Technology, Tabriz, Iran. 
-  * Thesis Title: “Adaptive Control Using NARMA-L2 Model for Nonlinear Systems,” Score: 19/20. **[pdf] (../files/bsc.pdf)**.
+  * Thesis Title: “Adaptive Control Using NARMA-L2 Model for Nonlinear Systems,” Score: 19/20. **[pdf](../files/BSc thesis.pdf)**.
 
 Doctor of Philosophy (Ph.D.) in Electrical Engineering	                                                      	September 2015
 	Amirkabir University of Technology (Tehran Polytechnic), Tehran, Iran. Total GPA: 3.67/4.
