@@ -15,7 +15,7 @@ I started my career in 2010 as a signal processing engineer. Over time, I learne
 
 In 2019, I started a new chapter in my career as a postdoctoral researcher at the Dalle Molle Institute for Artificial Intelligence (IDSIA, USI-SUPSI). This gave me the chance to do groundbreaking research and work with brilliant people in the AI community.
 
-Over the years, I have learned a lot about system design, signal and image processing, computer vision, information fusion, machine learning, and deep learning. I am good at working with digital data from different kinds of sensors, such as microphones, cameras, radar antennas, EEG electrodes, and load cells. My goal is to use the power of data to drive innovation and solve difficult problems.
+Over the years, I have learned a lot about system design, signal and image processing, computer vision, information fusion, machine learning, and deep learning. I am good at working with digital data from different kinds of sensors, such as microphones, cameras, radar antennas, EEG electrodes, load cells and more. My goal is to use the power of data to drive innovation and solve difficult problems.
 
 ## Research Interests
 
