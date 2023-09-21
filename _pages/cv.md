@@ -79,8 +79,9 @@ Skills
     dynamic load-cell signal processing for vehicle weight estimation.
   * Skilled in using a comprehensive set of signal processing libraries, including NumPy, SciPy, matplotlib, scikit-signal, PyWavelets, 
     SoundFile, FilterPy, and Wavelets, covering a wide range of signal processing tasks.
-* Optimization Algorithms: Proficient in particle swarm optimization (PSO) and Genetic algorithms for solving complex optimization problems. 
-  Experienced in utilizing Python libraries such as DEAP, PySwarm, and PyGMO for implementing and solving optimization tasks. 
+* Optimization Algorithms:
+  * Proficient in particle swarm optimization (PSO) and Genetic algorithms for solving complex optimization problems. 
+  * Experienced in utilizing Python libraries such as DEAP, PySwarm, and PyGMO for implementing and solving optimization tasks. 
 * Technologies and Frameworks: Extensive experience with a wide range of tools and technologies, including:
   * Operating Systems: Familiar with Linux for development and deployment and Microsoft windows (WSL2).
   * Version Control: Proficient in using GitHub for collaborative coding.
