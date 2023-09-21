@@ -30,7 +30,7 @@ Education
   * Thesis Title: “Synthetic Aperture Radar Signal Processing Using Nonlinear Frequency Modulation and Phase Error Compensation,” Score: 
     19.50/20 **[PDF](../files/MSc thesis.pdf)**.
     
-Work experience
+Work Experiences
 ======
 * Jan 2019 – Present: Postdoctoral researcher at Istituto Dalle Molle di Studi sull'Intelligenza Artificiale (IDSIA), Lugano, Switzerland.
   * Participated in the design and implementation of four industrial inspection and quality control projects for steel, electromechanical, and 
@@ -89,4 +89,20 @@ Skills
   * Parallel Programming: Proficient in multithreading and multiprocessing for optimizing program performance.
   * GPU Computing: Experience with CUDA Processing for parallel computing on GPUs.
 * Other relevant skills: Problem-solving, teamwork, communication.
+  
+Language
+======
+
+* Persian (native)
+* English (full professional proficiency)
+  * TOEFL iBT: total 100 (Reading 23/30, Listening 29/30, Speaking 24/30, Writing 24/30)
+* Italian (B1)
+
+Honors and Awards
+======
+
+* Evaluator of knowledge-based companies at Presidential Deputy for Science and Technology, Tehran, Iran (February 2018 – Present).
+* Member at Iran’s National Elites Foundation (BMN), (April 2016 – Present).
+* Scholarships for PhD and Master Educations, granted for top students in entrance exam, granter: Iranian government, (Sep 2010 and Sep 2007).
+
 
