@@ -56,11 +56,37 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
+* Programming Languages: Python (proficient), C/C++ (intermediate), MATLAB (proficient)
+* Development Environments (IDEs/Editors): Experienced with PyCharm, Visual Studio Code, Qt, Visual Studio, Eclipse, MATLAB/Simulink, Weka, 
+  and Maple.
+* Machine Learning and Data Analysis:
+  * Excellent knowledge of Supervised methods (Classification, Regression), Unsupervised methods (Clustering, Feature Selection, 
+    Dimensionality Reduction) and Self-supervised learning.
+  * Proficient in designing and implementing CNNs for image and video analysis, including tasks like classification, object detection, and 
+    semantic segmentation. Skilled in Autoencoder development for tasks such as anomaly detection, image denoising, and feature learning, and 
+    expert at applying deep learning to solve complex problems with expertise in model architecture, hyperparameter tuning, and transfer 
+    learning. Familiar with time-series forecasting using deep learning techniques.
+  * Skilled in using Scikit-learn, Pyod, SciPy, TensorFlow, Keras, TensorBoard, PyTorch, PyTorch Lightning, and MLflow for building and 
+    deploying machine learning and deep learning models.
+* Computer Vision and Image Processing:
+  * Expertise in various computer vision tasks, including Image reconstruction, 3D surface matching, depth estimation, multi-sensor image 
+    fusion, object detection and tracking, image segmentation, and image enhancement.
+  * Proficient in OpenCV and Scikit-image for image and video analysis.
+  * Competent in 3D Computer Vision with Open3D and Point Cloud Library (PCL) for 3D data processing.
+* Signal Processing:
+  * Proficient in Synthetic Aperture Radar (SAR) signal processing, biomedical signal analysis (ECG, EEG), speech signal processing, and 
+    dynamic load-cell signal processing for vehicle weight estimation.
+  * Skilled in using a comprehensive set of signal processing libraries, including NumPy, SciPy, matplotlib, scikit-signal, PyWavelets, 
+    SoundFile, FilterPy, and Wavelets, covering a wide range of signal processing tasks.
+* Optimization Algorithms: Proficient in particle swarm optimization (PSO) and Genetic algorithms for solving complex optimization problems. 
+  Experienced in utilizing Python libraries such as DEAP, PySwarm, and PyGMO for implementing and solving optimization tasks. 
+* Technologies and Frameworks: Extensive experience with a wide range of tools and technologies, including:
+  * Operating Systems: Familiar with Linux for development and deployment and Microsoft windows (WSL2).
+  * Version Control: Proficient in using GitHub for collaborative coding.
+  * Web Development: Proficient in Flask and FastAPI for building APIs with Python.
+  * Data Analysis: Skilled in data manipulation and analysis using Pandas, and Numpy.
+  * Parallel Programming: Proficient in multithreading and multiprocessing for optimizing program performance.
+  * GPU Computing: Experience with CUDA Processing for parallel computing on GPUs.
+* Other relevant skills: Problem-solving, teamwork, communication.
 
