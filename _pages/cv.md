@@ -57,9 +57,10 @@ Work Experiences
 Skills
 ======
 
-* Programming Languages: Python (proficient), C/C++ (intermediate), MATLAB (proficient)
-* Development Environments (IDEs/Editors): Experienced with PyCharm, Visual Studio Code, Qt, Visual Studio, Eclipse, MATLAB/Simulink, Weka, 
-  and Maple.
+* Programming Languages:
+  * Python (proficient), C/C++ (intermediate), MATLAB (proficient).
+* Development Environments (IDEs/Editors):
+  * Experienced with PyCharm, Visual Studio Code, Qt, Visual Studio, Eclipse, MATLAB/Simulink, Weka, and Maple.
 * Machine Learning and Data Analysis:
   * Excellent knowledge of Supervised methods (Classification, Regression), Unsupervised methods (Clustering, Feature Selection, 
     Dimensionality Reduction) and Self-supervised learning.
@@ -82,7 +83,7 @@ Skills
 * Optimization Algorithms:
   * Proficient in particle swarm optimization (PSO) and Genetic algorithms for solving complex optimization problems. 
   * Experienced in utilizing Python libraries such as DEAP, PySwarm, and PyGMO for implementing and solving optimization tasks. 
-* Technologies and Frameworks: Extensive experience with a wide range of tools and technologies, including:
+* Technologies and Frameworks:
   * Operating Systems: Familiar with Linux for development and deployment and Microsoft windows (WSL2).
   * Version Control: Proficient in using GitHub for collaborative coding.
   * Web Development: Proficient in Flask and FastAPI for building APIs with Python.
