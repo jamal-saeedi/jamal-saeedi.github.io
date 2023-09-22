@@ -34,8 +34,8 @@ Work Experiences
 ======
 * Jan 2019 – Present: Postdoctoral researcher at Istituto Dalle Molle di Studi sull'Intelligenza Artificiale (IDSIA), Lugano, Switzerland.
   * Participated in the design and implementation of multiple inspection and quality control projects for steel, electromechanical, 
-    and textile products, as well as other computer vision and data science projects utilizing deep learning, signal processing, and image 
-    processing techniques.
+    and textile products, as well as other computer vision and data science projects utilizing deep learning, signal and image processing, 
+    and computer vision techniques.
 * June 2016 – November 2018: Signal and image processing engineer at Towzin Electric Company (TEC), Tehran, Iran.
   * Contributed to the design and construction of the first Iranian High-Speed Weigh in Motion system at Towzin Electric Company (TEC), 
     Tehran, Iran, (September 2016).
