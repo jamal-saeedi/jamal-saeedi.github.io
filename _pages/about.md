@@ -7,15 +7,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I started my education by getting a Bachelor of Science degree in Biomedical Engineering from Sahand University of Tabriz, Iran, in 2006. This made me interested in the overlap of technology and science.
 
-I then got a Master's degree and a Ph.D. in Electronic Engineering from Amirkabir University of Tehran, Iran, in 2010 and 2015, respectively. This helped me learn more about innovation and cutting-edge research.
+I began my education by earning a Bachelor of Science degree in Biomedical Engineering from Sahand University of Tabriz, Iran, in 2006. This experience sparked my interest in the intersection of technology and science.
 
-I started my career in 2010 as a signal processing engineer. Over time, I learned about computer vision and machine learning, which made me a more versatile professional. I worked on a variety of projects, each of which taught me something new and helped me improve my skills.
+I then pursued a Master's degree and a Ph.D. in Electronic Engineering from Amirkabir University of Tehran, Iran, which I completed in 2010 and 2015, respectively. These programs deepened my understanding of innovation and cutting-edge research.
 
-In 2019, I started a new chapter in my career as a postdoctoral researcher at the Dalle Molle Institute for Artificial Intelligence (IDSIA, USI-SUPSI). This gave me the chance to do groundbreaking research and work with brilliant people in the AI community.
+In 2010, I began my career as a signal processing engineer. Over time, I expanded my skillset and made me a more adaptable professional by learning about computer vision and machine learning. I worked on a variety of projects, each of which taught me something new and helped me improve my skills.
 
-Over the years, I have learned a lot about system design, signal and image processing, computer vision, information fusion, machine learning, and deep learning. I am good at working with digital data from different kinds of sensors, such as microphones, cameras, radar antennas, EEG electrodes, load cells and more. My goal is to use the power of data to drive innovation and solve difficult problems.
+In 2019, I started a new chapter in my career as a postdoctoral researcher at the Dalle Molle Institute for Artificial Intelligence (IDSIA, USI-SUPSI). This opportunity allowed me to conduct groundbreaking research and collaborate with brilliant minds in the AI community.
+
+Over the years, I have developed a deep understanding of system design, signal and image processing, computer vision, information fusion, machine learning, and deep learning. I am proficient in working with digital data from a variety of sensors, including microphones, cameras, radar antennas, EEG electrodes, and load cells. My goal is to use the power of data to drive innovation and solve difficult problems.
 
 ## Research Interests
 
