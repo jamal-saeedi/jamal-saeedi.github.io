@@ -23,7 +23,7 @@ Over the years, I have developed a deep understanding of system design, signal a
 | Applied Machine Learning | Signal and Image Processing | Anomaly Detection | Normalizing Flows |
 | Self-Supervised Learning| Deep Generative Modeling | Object Detection and Tracking | Non-Stationary Time Series Forecasting |
 
-As an applied engineer, I have a passion for using the latest AI technologies, such as deep learning, computer vision, and machine learning, to solve real-world problems. I’m interested in a variety of applied tasks, including supervised and unsupervised classification, image-based regression, image segmentation, object detection and tracking, 3D computer vision, and non-stationary time-series forecasting.
+As an applied engineer, I have a passion for using the latest AI technologies, such as deep learning, computer vision, and machine learning, to solve real-world problems. I’m interested in a variety of applied tasks, including supervised and unsupervised classification, image-based regression, image segmentation, object detection and tracking, 3D computer vision, remote sensing, and non-stationary time-series forecasting.
 
 As a dedicated researcher, I’m excited to help advance the field of AI research. I’m particularly interested in developing new deep learning generative models, through variational autoencoders and normalizing flow techniques. I’m using these models to develop new solutions for anomaly detection, semantic image segmentation, signal and image enhancement, and image augmentation, among other applications.
 
