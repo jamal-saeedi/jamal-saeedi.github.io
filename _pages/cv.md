@@ -52,7 +52,6 @@ Experiences
     Amirkabir University of Technology.
   * Obtained M.Sc. and Ph.D. degrees in electrical engineering in 2010 and 2015, respectively.
   * Published 10 ISI journal papers and 7 conference papers in various research areas.
-
 ## Volunteering
 * 2012 – Present: Reviewer for IEEE, Elsevier, Springer, IET, Taylor & Francis, and World Scientific journals on signal and image processing, 
   computer vision, and remote sensing.
