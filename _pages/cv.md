@@ -30,8 +30,9 @@ Education
   * Thesis Title: “Synthetic Aperture Radar Signal Processing Using Nonlinear Frequency Modulation and Phase Error Compensation,” Score: 
     19.50/20 **[PDF](../files/MSc thesis.pdf)**.
     
-Work Experiences
+Experiences
 ======
+## Work
 * Jan 2019 – Present: Postdoctoral researcher at Istituto Dalle Molle di Studi sull'Intelligenza Artificiale (IDSIA), Lugano, Switzerland.
   * Participated in the design and implementation of multiple inspection and quality control projects for steel, electromechanical, 
     and textile products, as well as other computer vision and data science projects utilizing deep learning, signal and image processing, 
@@ -40,6 +41,7 @@ Work Experiences
   * Contributed to the design and construction of the first Iranian High-Speed Weigh in Motion system at Towzin Electric Company (TEC), 
     Tehran, Iran, (September 2016).
   * Involved in the design and implementation of real-time license plate recognition software, (March 2017).
+* March 2016 – June 2016: Research associate at Information and Communication Technology Research Center (ICTRC), Tehran, Iran.
 * September 2011 – January 2015: Signal processing engineer at Pardis Electronic Development Co., Tehran, Iran.
   * Played a role in the design and construction of the first Iranian Synthetic Aperture Radar (IRSAR/N-1) at Pardis Electronic Development 
     Co., Tehran, Iran, (July 2013).
@@ -50,9 +52,11 @@ Work Experiences
     Amirkabir University of Technology.
   * Obtained M.Sc. and Ph.D. degrees in electrical engineering in 2010 and 2015, respectively.
   * Published 10 ISI journal papers and 7 conference papers in various research areas.
+
+## Volunteering
 * 2012 – Present: Reviewer for IEEE, Elsevier, Springer, IET, Taylor & Francis, and World Scientific journals on signal and image processing, 
   computer vision, and remote sensing.
-
+* February 2017 – December 2019: Evaluator of knowledge-based companies at Presidential Deputy for Science and Technology, Tehran, Iran.
   
 Skills
 ======
