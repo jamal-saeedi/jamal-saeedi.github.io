@@ -21,7 +21,7 @@ Over the years, I have developed a deep understanding of system design, signal a
 ## Research Interests
 
 | Applied Machine Learning | Anomaly Detection | Normalizing Flows | 3D Computer Vision |
-| Self-Supervised Learning| Deep Generative Modeling | Object Detection and Tracking | Non-Stationary Time Series Forecasting |
+| Self-Supervised Learning| Remote Sensing | Object Detection and Tracking | Non-Stationary Time Series Forecasting |
 
 As an applied engineer, I have a passion for using the latest AI technologies, such as deep learning, computer vision, and machine learning, to solve real-world problems. I’m interested in a variety of applied tasks, including supervised and unsupervised classification, image-based regression, image segmentation, object detection and tracking, 3D computer vision, remote sensing, and non-stationary time-series forecasting.
 
