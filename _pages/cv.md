@@ -23,12 +23,12 @@ Education
 * Master of Science (M.Sc.) in Electrical Engineering, January 2010
   * Amirkabir University of Technology (Tehran Polytechnic), Tehran, Iran. Total GPA: 3.34/4.
   * Thesis Title: “Image Fusion in the Multi-Scale Transforms Domain Using Fuzzy Logic and Particle Swarm Optimization,” Score: 20/20
-    **[PDF](../files/PhD thesis.pdf)**.
+    **[PDF](../files/MSc thesis.pdf)**.
 
 * Doctor of Philosophy (Ph.D.) in Electrical Engineering, September 2015
   * Amirkabir University of Technology (Tehran Polytechnic), Tehran, Iran. Total GPA: 3.67/4.
   * Thesis Title: “Synthetic Aperture Radar Signal Processing Using Nonlinear Frequency Modulation and Phase Error Compensation,” Score: 
-    19.50/20 **[PDF](../files/MSc thesis.pdf)**.
+    19.50/20 **[PDF](../files/PhD thesis.pdf)**.
     
 Experiences
 ======
