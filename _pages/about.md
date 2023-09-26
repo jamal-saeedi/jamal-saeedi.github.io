@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I began my education by earning a Bachelor of Science degree in Biomedical Engineering from Sahand University of Tabriz, Iran, in 2006. This experience sparked my interest in the intersection of technology and science.
+I began my undergraduate education by earning a Bachelor of Science degree in Biomedical Engineering from Sahand University of Tabriz, Iran, in 2006. This experience sparked my interest in the intersection of technology and science.
 
 I then pursued a Master's degree and a Ph.D. in Electronic Engineering from Amirkabir University of Tehran, Iran, which I completed in 2010 and 2015, respectively. These programs deepened my understanding of innovation and cutting-edge research.
 
