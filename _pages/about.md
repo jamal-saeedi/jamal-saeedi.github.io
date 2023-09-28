@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I began my undergraduate education by earning a Bachelor of Science degree in Biomedical Engineering from [Sahand University of Tabriz](https://sut.ac.ir/en/), Iran, in 2006. This experience sparked my interest in the intersection of technology and science.
+I began my undergraduate education by earning a Bachelor of Science degree in Biomedical Engineering from [Sahand University of Technology](https://sut.ac.ir/en/), Tabriz, Iran, in 2006. This experience sparked my interest in the intersection of technology and science.
 
-I then pursued a Master's degree and a Ph.D. in Electronic Engineering from [Amirkabir University of Tehran](https://aut.ac.ir/en), Iran, which I completed in 2010 and 2015, respectively. These programs deepened my understanding of innovation and cutting-edge research.
+I then pursued a Master's degree and a Ph.D. in Electronic Engineering from [Amirkabir University of Technology (Tehran Polytechnique)](https://aut.ac.ir/en), Tehran, Iran, which I completed in 2010 and 2015, respectively. These programs deepened my understanding of innovation and cutting-edge research.
 
 In 2010, I began my career as a signal processing engineer. Over time, I expanded my skillset and made me a more adaptable professional by learning about computer vision and machine learning. I worked on a variety of projects, each of which taught me something new and helped me improve my skills.
 
