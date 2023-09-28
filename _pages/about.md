@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I began my undergraduate education by earning a Bachelor of Science degree in Biomedical Engineering from Sahand University of Tabriz, Iran, in 2006. This experience sparked my interest in the intersection of technology and science.
+I began my undergraduate education by earning a Bachelor of Science degree in Biomedical Engineering from [Sahand University of Tabriz](https://sut.ac.ir/en/), Iran, in 2006. This experience sparked my interest in the intersection of technology and science.
 
-I then pursued a Master's degree and a Ph.D. in Electronic Engineering from Amirkabir University of Tehran, Iran, which I completed in 2010 and 2015, respectively. These programs deepened my understanding of innovation and cutting-edge research.
+I then pursued a Master's degree and a Ph.D. in Electronic Engineering from [Amirkabir University of Tehran](https://aut.ac.ir/en), Iran, which I completed in 2010 and 2015, respectively. These programs deepened my understanding of innovation and cutting-edge research.
 
 In 2010, I began my career as a signal processing engineer. Over time, I expanded my skillset and made me a more adaptable professional by learning about computer vision and machine learning. I worked on a variety of projects, each of which taught me something new and helped me improve my skills.
 
-In 2019, I started a new chapter in my career as a postdoctoral researcher at the Dalle Molle Institute for Artificial Intelligence (IDSIA, USI-SUPSI). This opportunity allowed me to conduct groundbreaking research and collaborate with brilliant minds in the AI community.
+In 2019, I started a new chapter in my career as a postdoctoral researcher at the [Dalle Molle Institute for Artificial Intelligence (IDSIA, USI-SUPSI)](https://www.idsia.ch/). This opportunity allowed me to conduct groundbreaking research and collaborate with brilliant minds in the AI community.
 
 Over the years, I have developed a deep understanding of system design, signal and image processing, computer vision, remote sensing, machine learning, and deep learning. I am proficient in working with digital data from a variety of sensors, including microphones, cameras, radar antennas, EEG electrodes, load cells, and more, as well as time series data. I am passionate about using the power of data to drive innovation and solve difficult problems.
 
