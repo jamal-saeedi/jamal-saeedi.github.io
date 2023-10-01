@@ -66,20 +66,21 @@ Skills
   * Python (proficient), C/C++ (intermediate), MATLAB (proficient).
 * Development Environments (IDEs/Editors):
   * Experienced with PyCharm, Visual Studio Code, Qt, Visual Studio, Eclipse, MATLAB/Simulink, Weka, and Maple.
-* Machine Learning and Data Analysis:
+* Machine Learning and Deep Learning:
   * Excellent knowledge of Supervised methods (Classification, Regression), Unsupervised methods (Clustering, Feature Selection, 
     Dimensionality Reduction) and Self-supervised learning.
   * Proficient in designing and implementing CNNs for image and video analysis, including tasks like classification, object detection, and 
     semantic segmentation. Skilled in Autoencoder development for tasks such as anomaly detection, image denoising, and feature learning, and 
-    expert at applying deep learning to solve complex problems with expertise in model architecture, hyperparameter tuning, and transfer 
-    learning. Familiar with time-series forecasting using deep learning techniques.
-  * Skilled in using Scikit-learn, Pyod, SciPy, TensorFlow, Keras, TensorBoard, PyTorch, PyTorch Lightning, and MLflow for building and 
-    deploying machine learning and deep learning models.
+    expert at applying deep learning to solve complex problems with expertise in model architecture, hyperparameter tuning, image 
+    augmentation and transfer learning. Familiar with time-series forecasting using deep learning techniques.
+  * Skilled in using Scikit-learn, Pyod, SciPy, TensorFlow, Keras, TensorBoard, PyTorch, PyTorch Lightning, Albumentations, Imgaug and MLflow 
+    for building and deploying machine learning and deep learning models.
 * Computer Vision and Image Processing:
-  * Expertise in various computer vision tasks, including Image reconstruction, 3D surface matching, depth estimation, multi-sensor image 
-    fusion, object detection and tracking, image segmentation, and image enhancement.
-  * Proficient in OpenCV and Scikit-image for image and video analysis.
-  * Competent in 3D Computer Vision with Open3D and Point Cloud Library (PCL) for 3D data processing.
+  * Expertise in various computer vision tasks, including Image reconstruction, 3D surface matching, depth estimation, SLAM, multi-sensor 
+    image fusion, object detection (instance segmentation) and tracking, semantic segmentation, visual inspection, image registration, 
+    template matching, and image enhancement.
+  * Proficient in OpenCV, Scikit-image, and Kornia for image and video analysis.
+  * Competent in using Open3D and Point Cloud Library (PCL) for point cloud data processing.
 * Signal Processing:
   * Proficient in Synthetic Aperture Radar (SAR) signal processing, biomedical signal analysis (ECG, EEG), speech signal processing, and 
     dynamic load-cell signal processing for vehicle weight estimation.
@@ -90,7 +91,7 @@ Skills
   * Experienced in utilizing Python libraries such as DEAP, PySwarm, and PyGMO for implementing and solving optimization tasks. 
 * Technologies and Frameworks:
   * Operating Systems: Familiar with Linux for development and deployment and Microsoft windows (WSL2).
-  * Version Control: Proficient in using GitHub for collaborative coding.
+  * Version Control: Proficient in using GitHub for collaborative coding and using PyTest with GitHub Actions.
   * Web Development: Proficient in Flask and FastAPI for building APIs with Python.
   * Data Analysis: Skilled in data manipulation and analysis using Pandas, and Numpy.
   * Parallel Programming: Proficient in multithreading and multiprocessing for optimizing program performance.
