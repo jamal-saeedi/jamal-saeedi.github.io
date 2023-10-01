@@ -79,7 +79,7 @@ Skills
   * Expertise in various computer vision tasks, including Image reconstruction, 3D surface matching, depth estimation, SLAM, multi-sensor 
     image fusion, object detection (instance segmentation) and tracking, semantic segmentation, visual inspection, image registration, 
     template matching, and image enhancement.
-  * Proficient in OpenCV, Scikit-image, and Kornia for image and video analysis.
+  * Proficient in utilizing OpenCV, Scikit-image, and Kornia for image and video analysis.
   * Competent in using Open3D and Point Cloud Library (PCL) for point cloud data processing.
 * Signal Processing:
   * Proficient in Synthetic Aperture Radar (SAR) signal processing, biomedical signal analysis (ECG, EEG), speech signal processing, and 
