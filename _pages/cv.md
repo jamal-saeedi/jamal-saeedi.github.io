@@ -33,7 +33,8 @@ Education
 Experiences
 ======
 ## Work
-* Jan 2019 – Present: Postdoctoral researcher at Istituto Dalle Molle di Studi sull'Intelligenza Artificiale (IDSIA), Lugano, Switzerland.
+* Jan 2019 – Present: Postdoctoral researcher at Swiss AI Lab IDSIA (Istituto Dalle Molle di Studi sull’Intelligenza Artificiale), Lugano, 
+  Switzerland.
   * Participated in the design and implementation of multiple automated visual inspection and quality control projects for steel, 
    electromechanical, and textile products, as well as other computer vision and data science projects utilizing deep learning, signal and 
    image processing, and computer vision techniques.
