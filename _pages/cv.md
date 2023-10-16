@@ -85,7 +85,7 @@ Skills
 * Signal Processing:
   * Proficient in Synthetic Aperture Radar (SAR) signal processing, biomedical signal analysis (ECG, EEG), speech signal processing, and 
     dynamic load-cell signal processing for vehicle weight estimation.
-  * Skilled in using a comprehensive set of signal processing libraries, including NumPy, SciPy, matplotlib, scikit-signal, PyWavelets, 
+  * Skilled in using a comprehensive set of signal processing libraries, including NumPy, SciPy, Matplotlib, Scikit-signal, PyWavelets, 
     SoundFile, FilterPy, and Wavelets, covering a wide range of signal processing tasks.
 * Optimization Algorithms:
   * Proficient in particle swarm optimization (PSO) and Genetic algorithms for solving complex optimization problems. 
