@@ -10,7 +10,8 @@ redirect_from:
 {% include base_path %}
 
 
-Below are some highlights from my CV. For more information, please see the PDF of my **[Full CV](../files/curriculum vitae.pdf)**.
+Below are some highlights from my CV. 
+For more information, please see the PDF of my **[Full CV](../files/curriculum vitae.pdf)**.
 
 Education
 ======
