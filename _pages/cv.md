@@ -66,7 +66,7 @@ Skills
 * Programming Languages:
   * Python (proficient), C/C++ (intermediate), MATLAB (proficient).
 * Development Environments (IDEs/Editors):
-  * Experienced with Visual Studio Code, PyCharm, Jupyter Notebook, Qt, Visual Studio, Eclipse, MATLAB/Simulink, Weka, and Maple.
+  * Experienced with Visual Studio Code, PyCharm, Jupyter Notebook, Qt, Visual Studio, Eclipse, MATLAB/Simulink, and Maple.
 * Machine Learning and Deep Learning:
   * Excellent knowledge of Supervised methods (Classification, Regression), Unsupervised methods (Clustering, Feature Selection, 
     Dimensionality Reduction) and Self-supervised learning.
