@@ -35,9 +35,8 @@ Experiences
 ## Work
 * Jan 2019 – Present: Postdoctoral researcher at Swiss AI Lab IDSIA (Istituto Dalle Molle di Studi sull’Intelligenza Artificiale), Lugano, 
   Switzerland.
-  * Participated in the design and implementation of multiple automated visual inspection and quality control projects for steel, 
-   electromechanical, and textile products, as well as other computer vision and data science projects utilizing deep learning, signal and 
-   image processing, and computer vision techniques.
+  * Participated in the design and implementation of multiple automated visual inspection and quality control projects for steel, electromechanical, and textile products through the development and application of cutting-edge deep learning, signal processing, and computer vision techniques.
+  * Contributed to various projects involving object detection and tracking, 3D surface matching, microwave image reconstruction, and time series forecasting for financial assets.
 * June 2016 – November 2018: Signal and image processing engineer at Towzin Electric Company (TEC), Tehran, Iran.
   * Contributed to the design and construction of the first Iranian High-Speed Weigh in Motion system at Towzin Electric Company (TEC), 
     Tehran, Iran, (September 2016).
@@ -70,12 +69,8 @@ Skills
 * Machine Learning and Deep Learning:
   * Excellent knowledge of Supervised methods (Classification, Regression), Unsupervised methods (Clustering, Feature Selection, 
     Dimensionality Reduction) and Self-supervised learning.
-  * Proficient in designing and implementing CNNs for image and video analysis, including tasks like classification, object detection, and 
-    semantic segmentation. Skilled in Autoencoder development for tasks such as anomaly detection, image denoising, and feature learning, and 
-    expert at applying deep learning to solve complex problems with expertise in model architecture, hyperparameter tuning, image 
-    augmentation and transfer learning. Familiar with time-series forecasting using deep learning techniques.
-  * Skilled in using Scikit-learn, Pyod, SciPy, TensorFlow, Keras, TensorBoard, PyTorch, PyTorch Lightning, Albumentations, Imgaug and MLflow 
-    for building and deploying machine learning and deep learning models.
+  * Experienced in designing and implementing CNNs for image and video analysis, including classification, object detection, and semantic segmentation. Skilled in Autoencoder development for anomaly detection, image denoising, and feature learning. Expertise in deep learning model architecture, hyperparameter tuning, image augmentation, and transfer learning. Familiar with time-series forecasting using deep learning and machine learning techniques. Proficient in data cleaning, imputation, feature engineering, and machine learning models for data science projects.
+  * Skilled in using Scikit-learn, Pyod, SciPy, TensorFlow, Keras, TensorBoard, PyTorch, PyTorch Lightning, Albumentations, Imgaug, Comet, MLflow, Pandas and LightGBM for building and deploying machine learning and deep learning models.
 * Computer Vision and Image Processing:
   * Expertise in various computer vision tasks, including Image reconstruction, 3D surface matching, depth estimation, SLAM, multi-sensor 
     image fusion, object detection (instance segmentation) and tracking, semantic segmentation, visual inspection, image registration, 
@@ -85,15 +80,14 @@ Skills
 * Signal Processing:
   * Proficient in Synthetic Aperture Radar (SAR) signal processing, biomedical signal analysis (ECG, EEG), speech signal processing, and 
     dynamic load-cell signal processing for vehicle weight estimation.
-  * Skilled in using a comprehensive set of signal processing libraries, including NumPy, SciPy, Matplotlib, Scikit-signal, PyWavelets, 
-    SoundFile, FilterPy, and Wavelets, covering a wide range of signal processing tasks.
+  * Skilled in using a comprehensive set of signal processing libraries, including NumPy, SciPy, Matplotlib, Scikit-signal, PyWavelets, FilterPy, and Wavelets, covering a wide range of signal processing tasks.
 * Optimization Algorithms:
   * Proficient in particle swarm optimization (PSO) and Genetic algorithms for solving complex optimization problems. 
   * Experienced in utilizing Python libraries such as DEAP, PySwarm, and PyGMO for implementing and solving optimization tasks. 
 * Technologies and Frameworks:
   * Infrastructure: Proficient in Linux, Microsoft Windows (WSL2), and Docker for containerized microservices. 
   * Version Control: Experienced in collaborative coding using GitHub and GitLab.
-  * Web Development: Proficient in Flask and FastAPI for building APIs with Python.
+  * Web Development: Proficient in Flask and FastAPI for building APIs and ZeroMQ for efficient messaging.
   * Data Analysis: Skilled in data manipulation and analysis using Pandas, Seaborn and Numpy.
   * Parallel Programming: Proficient in multithreading and multiprocessing for optimizing program performance.
   * GPU Computing: Experience with CUDA Processing for parallel computing on GPUs.
