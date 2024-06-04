@@ -38,15 +38,12 @@ Experiences
   * Participated in the design and implementation of multiple automated visual inspection and quality control projects for steel, electromechanical, and textile products through the development and application of cutting-edge deep learning, signal processing, and computer vision techniques.
   * Contributed to various projects involving object detection and tracking, 3D surface matching, microwave image reconstruction, and time series forecasting for financial assets.
 * June 2016 – November 2018: Signal and image processing engineer at Towzin Electric Company (TEC), Tehran, Iran.
-  * Contributed to the design and construction of the first Iranian High-Speed Weigh in Motion system at Towzin Electric Company (TEC), 
-    Tehran, Iran, (September 2016).
+  * Contributed to the design and construction of the first Iranian High-Speed Weigh in Motion system, (September 2016).
   * Involved in the design and implementation of real-time license plate recognition software, (March 2017).
 * March 2016 – June 2016: Research associate at Information and Communication Technology Research Center (ICTRC), Tehran, Iran.
 * September 2011 – January 2015: Signal processing engineer at Pardis Electronic Development Co., Tehran, Iran.
-  * Played a role in the design and construction of the first Iranian Synthetic Aperture Radar (IRSAR/N-1) at Pardis Electronic Development 
-    Co., Tehran, Iran, (July 2013).
-  * Contributed to technology transfer for a pulsed mode SAR system manufactured by Russia, at Pardis Electronic Development Co., Tehran, 
-    Iran, (2012-2013).
+  * Played a role in the design and construction of the first Iranian Synthetic Aperture Radar (IRSAR/N-1), (July 2013).
+  * Contributed to technology transfer for a pulsed mode SAR system, (2012-2013).
 * September 2007 – September 2015: Research assistant at Machine Vision Research Lab. (MVRL) under the supervision of Prof. Karim Faez, 
   Electrical Engineering Department.
     Amirkabir University of Technology.
